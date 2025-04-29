@@ -65,17 +65,17 @@ function executarExercicio3() {
 
 
 while (true) {
-  console.log("\n╔═══════════════════════════════════════╗");
-  console.log("║      MENU PRINCIPAL DE EXERCÍCIOS      ║");
-  console.log("╠════════════════════════════════════════╣");
-  console.log("║ Escolha um exercício para executar:    ║");
-  console.log("║----------------------------------------║");
-  console.log("║ 1. Verificar Par ou Ímpar              ║");
-  console.log("║ 2. Classificar Idade                   ║");
-  console.log("║ 3. Classificar Nota                    ║");
-  console.log("║----------------------------------------║");
-  console.log("║ 0. Sair                                ║");
-  console.log("╚════════════════════════════════════════╝");
+  console.log("\n======================================== ");
+  console.log("     MENU PRINCIPAL DE EXERCÍCIOS      ");
+  console.log("=======================================");
+  console.log("     Escolha um exercício para executar:");
+  console.log("----------------------------------------");
+  console.log(" 1. Verificar Par ou Ímpar              ");
+  console.log(" 2. Classificar Idade                   ");
+  console.log(" 3. Classificar Nota                    ");
+  console.log("----------------------------------------");
+  console.log("0. Sair                                ");
+  console.log("========================================");
 
   
   let escolha = readlineSync.question("Digite o numero da opcao desejada: ");
