@@ -1,6 +1,6 @@
 # Repositório Lista de Exercícios 1 - Estudando as estruturas básicas em JavasScript;
 
-Este repositório contém exemplos simples de esturturas básicas criados para fins de resolução da atividade do curso Full Stack Jr. da MaisPraTI.
+Este repositório contém exemplos simples de esturturas básicas criados para fins de resolução da atividade do curso Full Stack Jr. da +PraTI.
 
 ## Scripts Disponíveis
 
